@@ -1,10 +1,7 @@
 == README
 
 
-
 * The Employment Beyond Poverty app uses Ruby version 2.1.2 p95
-
-* System dependencies
 
 * This app was built on Rails 4.1.4
 
@@ -12,7 +9,7 @@
 
 * You must install Postgres to contribute to any future app modifications since the app runs on Postgresql
 
-* How to run the test suite
+* How to run the test suite: Run rspec
 
 * Services (job queues, cache servers, search engines, etc.)
 
@@ -23,5 +20,3 @@
 *contact: jacquelinehoman7@gmail.com
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.

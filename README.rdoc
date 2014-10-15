@@ -1,27 +1,26 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+* The Employment Beyond Poverty app uses Ruby version 2.1.2 p95
 
 * System dependencies
 
-* Configuration
+* This app was built on Rails 4.1.4
 
-* Database creation
+* Databases used for development, testing and production: Postgresql
 
-* Database initialization
+* You must install Postgres to contribute to any future app modifications since the app runs on Postgresql
 
 * How to run the test suite
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+* Deployment instructions: Can be deployed on AWS, Digital Ocean, and Heroku
 
-* ...
+*copyright 2014 Jacqueline S. Homan. All rights reserved
+
+*contact: jacquelinehoman7@gmail.com
 
 
 Please feel free to use a different markup language if you do not plan to run
